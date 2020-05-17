@@ -1,4 +1,0 @@
-Austin Cho - Documentation, Testing
-Kevin Mc Carvill - Concept designer, Initial UML draft, Initial Ui Draft, Lead Programmer
-Mehraj Meah - Documentation, Testing
-Marcus Wong - Ui Designer, Sequence Diagram
